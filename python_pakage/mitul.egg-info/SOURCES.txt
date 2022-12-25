@@ -1,0 +1,8 @@
+setup.py
+mitul.egg-info/PKG-INFO
+mitul.egg-info/SOURCES.txt
+mitul.egg-info/dependency_links.txt
+mitul.egg-info/top_level.txt
+pkg/__init__.py
+pkg/module2.py
+pkg/my_module.py
